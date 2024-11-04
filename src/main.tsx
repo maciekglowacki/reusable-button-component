@@ -3,7 +3,6 @@ import { createRoot } from "react-dom/client";
 import { Button } from "./Button.tsx";
 import "./index.css";
 import { RiStarLine } from "@remixicon/react";
-import "remixicon/fonts/remixicon.css";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
